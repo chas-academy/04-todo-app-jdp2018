@@ -7,7 +7,7 @@
 
 <footer class="site-footer">
     <div class="small-container">
-        <p class="text-center">Made by <a href="#">Your Name Here</a></p>
+        <p class="text-center">Made by <a href="#">Diego Piñones</a></p>
     </div>
 </footer>
 
